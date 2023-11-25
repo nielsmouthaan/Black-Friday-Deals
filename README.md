@@ -96,6 +96,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [BetterTouchTool]([https://apps.apple.com/us/app/chronos-planner/id1631767524](https://folivora.ai/) - BetterTouchTool is a great, feature packed app that allows you to customize various input devices on your Mac. 25% off with code **BTT_BLACK_FRIDAY_2023**
 ### 💸 [Quick Note](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?mt=12) - Beautiful sticky notes in your menubar · Free download · 50% off on upgrading to PRO
 ### 💸 [Filma](https://filma.app) - Elevate your presence with pro-looking videos easily in no time · Free download · 90 days of Premium Plan for FREE - Claim at the website
+### 💸 [Daily Time Tracking](http://dailytimetracking.com/download?utm_source=blackfridaydeals) - Effortless time tracking for Mac without toggling timers. | 50% OFF
 
 ## 🎨 Graphic Software
 ### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
